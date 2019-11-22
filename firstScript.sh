@@ -4,3 +4,4 @@ touch canttouchthis
 firstScript.sh
 LICENSE
 README.md
+echo "cookies are good for the soul"
