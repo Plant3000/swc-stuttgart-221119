@@ -1,2 +1,2 @@
-touch example1.tx
-
+touch example1.txt
+touch expample2.txt
